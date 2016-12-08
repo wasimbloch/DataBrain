@@ -1,0 +1,45 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{A7E47D33-B3A1-46C8-BA27-52526BD7BCE0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataBrain.Core", "Core\DataBrain.Core\DataBrain.Core.csproj", "{1ADA0D24-4B07-4B52-97DB-4A89A79922BF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Ingestion", "Ingestion", "{1D88090A-01B8-4134-B7CD-2448DDCC800E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataBrain.Ingestion.Api", "Ingestion\DataBrain.Ingestion.Api\DataBrain.Ingestion.Api.csproj", "{AA828AD8-DC7E-4B46-BDA8-A485B2199134}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ColdStorage", "ColdStorage", "{C67B0A56-1932-4D94-91A2-E8B6039E60B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataBrain.ColdStorage.EventProcessor.WebJob", "ColdStorage\DataBrain.ColdStorage.EventProcessor.WebJob\DataBrain.ColdStorage.EventProcessor.WebJob.csproj", "{3AAA5C80-1DB8-4BF1-941D-606177391E88}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1ADA0D24-4B07-4B52-97DB-4A89A79922BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1ADA0D24-4B07-4B52-97DB-4A89A79922BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1ADA0D24-4B07-4B52-97DB-4A89A79922BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1ADA0D24-4B07-4B52-97DB-4A89A79922BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA828AD8-DC7E-4B46-BDA8-A485B2199134}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA828AD8-DC7E-4B46-BDA8-A485B2199134}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA828AD8-DC7E-4B46-BDA8-A485B2199134}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA828AD8-DC7E-4B46-BDA8-A485B2199134}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3AAA5C80-1DB8-4BF1-941D-606177391E88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AAA5C80-1DB8-4BF1-941D-606177391E88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AAA5C80-1DB8-4BF1-941D-606177391E88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AAA5C80-1DB8-4BF1-941D-606177391E88}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{1ADA0D24-4B07-4B52-97DB-4A89A79922BF} = {A7E47D33-B3A1-46C8-BA27-52526BD7BCE0}
+		{AA828AD8-DC7E-4B46-BDA8-A485B2199134} = {1D88090A-01B8-4134-B7CD-2448DDCC800E}
+		{3AAA5C80-1DB8-4BF1-941D-606177391E88} = {C67B0A56-1932-4D94-91A2-E8B6039E60B4}
+	EndGlobalSection
+EndGlobal
