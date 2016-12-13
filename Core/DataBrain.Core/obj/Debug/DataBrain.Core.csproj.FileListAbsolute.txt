@@ -14,6 +14,7 @@ D:\GSI-CAT\Code\DataBrain\Core\DataBrain.Core\bin\Debug\Microsoft.ServiceBus.dll
 D:\GSI-CAT\Code\DataBrain\Core\DataBrain.Core\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
 D:\GSI-CAT\Code\DataBrain\Core\DataBrain.Core\bin\Debug\Microsoft.WindowsAzure.Storage.dll
 D:\GSI-CAT\Code\DataBrain\Core\DataBrain.Core\bin\Debug\Newtonsoft.Json.dll
+D:\GSI-CAT\Code\DataBrain\Core\DataBrain.Core\bin\Debug\NLog.AzureAppendBlob.dll
 D:\GSI-CAT\Code\DataBrain\Core\DataBrain.Core\bin\Debug\NLog.dll
 D:\GSI-CAT\Code\DataBrain\Core\DataBrain.Core\bin\Debug\NLog.Targets.Loggly.dll
 D:\GSI-CAT\Code\DataBrain\Core\DataBrain.Core\bin\Debug\System.Spatial.dll

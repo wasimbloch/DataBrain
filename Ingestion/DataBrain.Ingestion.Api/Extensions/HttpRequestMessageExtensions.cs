@@ -9,7 +9,7 @@ namespace System.Net.Http
     {
         public static string GetDeviceId(this HttpRequestMessage request)
         {
-            return request.GetHeaderValue("x-device-id");
+            return request.GetHeaderValue("device-id");
         }
 
         public static string GetHeaderValue(this HttpRequestMessage request, string headerName)

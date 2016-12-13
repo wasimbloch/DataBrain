@@ -1,9 +1,11 @@
-﻿using DataBrain.Ingestion.Api.Processor;
+using DataBrain.Ingestion.Api.Processor;
 using DataBrain.Ingestion.Api.Processor.EventHubs;
 using Microsoft.Practices.Unity;
 using Microsoft.Practices.Unity.Configuration;
 using System;
 using System.Configuration;
+using System.Web.Http;
+using Unity.WebApi;
 
 namespace DataBrain.Ingestion.Api
 {
