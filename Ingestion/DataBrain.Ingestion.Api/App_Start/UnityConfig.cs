@@ -1,14 +1,15 @@
-using DataBrain.Ingestion.Api.Processor;
-using DataBrain.Ingestion.Api.Processor.EventHubs;
+using System;
 using Microsoft.Practices.Unity;
 using Microsoft.Practices.Unity.Configuration;
-using System;
 using System.Configuration;
-using System.Web.Http;
-using Unity.WebApi;
+using DataBrain.Ingestion.Api.Processor;
+using DataBrain.Ingestion.Api.Processor.EventHubs;
 
-namespace DataBrain.Ingestion.Api
+namespace DataBrain.Ingestion.Api.App_Start
 {
+    /// <summary>
+    /// Specifies the Unity configuration for the main container.
+    /// </summary>
     public class UnityConfig
     {
         private static Lazy<IUnityContainer> container = new Lazy<IUnityContainer>(() =>

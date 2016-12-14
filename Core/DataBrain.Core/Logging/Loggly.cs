@@ -13,8 +13,6 @@ namespace DataBrain.Core.Logging
     public class Loggly : TargetWithLayout
     {
         private Dictionary<Guid, string> _buffer = new Dictionary<Guid, string>();
-        private Timer _flushTimer;
-        private TimeSpan _flushTimespan;
         private static object _SyncLock = new object();
 
         [RequiredParameter]

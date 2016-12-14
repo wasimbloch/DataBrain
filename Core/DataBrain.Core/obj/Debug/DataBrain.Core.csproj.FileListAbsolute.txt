@@ -14,10 +14,12 @@ D:\GSI-CAT\Code\DataBrain\Core\DataBrain.Core\bin\Debug\Microsoft.ServiceBus.dll
 D:\GSI-CAT\Code\DataBrain\Core\DataBrain.Core\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
 D:\GSI-CAT\Code\DataBrain\Core\DataBrain.Core\bin\Debug\Microsoft.WindowsAzure.Storage.dll
 D:\GSI-CAT\Code\DataBrain\Core\DataBrain.Core\bin\Debug\Newtonsoft.Json.dll
-D:\GSI-CAT\Code\DataBrain\Core\DataBrain.Core\bin\Debug\NLog.AzureAppendBlob.dll
 D:\GSI-CAT\Code\DataBrain\Core\DataBrain.Core\bin\Debug\NLog.dll
+D:\GSI-CAT\Code\DataBrain\Core\DataBrain.Core\bin\Debug\NLog.Extended.dll
 D:\GSI-CAT\Code\DataBrain\Core\DataBrain.Core\bin\Debug\NLog.Targets.Loggly.dll
+D:\GSI-CAT\Code\DataBrain\Core\DataBrain.Core\bin\Debug\System.Net.Http.Formatting.dll
 D:\GSI-CAT\Code\DataBrain\Core\DataBrain.Core\bin\Debug\System.Spatial.dll
+D:\GSI-CAT\Code\DataBrain\Core\DataBrain.Core\bin\Debug\System.Web.Http.dll
 D:\GSI-CAT\Code\DataBrain\Core\DataBrain.Core\bin\Debug\Loggly.pdb
 D:\GSI-CAT\Code\DataBrain\Core\DataBrain.Core\bin\Debug\Loggly.Config.pdb
 D:\GSI-CAT\Code\DataBrain\Core\DataBrain.Core\bin\Debug\Microsoft.Azure.KeyVault.Core.xml
@@ -33,8 +35,11 @@ D:\GSI-CAT\Code\DataBrain\Core\DataBrain.Core\bin\Debug\Microsoft.WindowsAzure.S
 D:\GSI-CAT\Code\DataBrain\Core\DataBrain.Core\bin\Debug\Microsoft.WindowsAzure.Storage.xml
 D:\GSI-CAT\Code\DataBrain\Core\DataBrain.Core\bin\Debug\Newtonsoft.Json.xml
 D:\GSI-CAT\Code\DataBrain\Core\DataBrain.Core\bin\Debug\NLog.xml
+D:\GSI-CAT\Code\DataBrain\Core\DataBrain.Core\bin\Debug\NLog.Extended.xml
 D:\GSI-CAT\Code\DataBrain\Core\DataBrain.Core\bin\Debug\NLog.Targets.Loggly.pdb
+D:\GSI-CAT\Code\DataBrain\Core\DataBrain.Core\bin\Debug\System.Net.Http.Formatting.xml
 D:\GSI-CAT\Code\DataBrain\Core\DataBrain.Core\bin\Debug\System.Spatial.xml
+D:\GSI-CAT\Code\DataBrain\Core\DataBrain.Core\bin\Debug\System.Web.Http.xml
 D:\GSI-CAT\Code\DataBrain\Core\DataBrain.Core\bin\Debug\de\Microsoft.Data.Edm.resources.dll
 D:\GSI-CAT\Code\DataBrain\Core\DataBrain.Core\bin\Debug\es\Microsoft.Data.Edm.resources.dll
 D:\GSI-CAT\Code\DataBrain\Core\DataBrain.Core\bin\Debug\fr\Microsoft.Data.Edm.resources.dll

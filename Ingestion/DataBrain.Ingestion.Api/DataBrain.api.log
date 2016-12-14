@@ -1,0 +1,2 @@
+{"date":"2016-12-14 10:43:32.342 +05:30",,"level":"Trace","event":{"name":"ParseEvents","facets":{"deviceId":"123","eventCount":24,"_loggerId":50492470}},"logger":"EventsController","environment":"dev","host":"MININT-UQJ6ACP"}
+{"date":"2016-12-14 10:43:36.171 +05:30",,"level":"Trace","event":{"name":"SendEventsAsync","facets":{"deviceId":"123","batchCount":24,"_loggerId":487869}},"logger":"EventHubEventSender","environment":"dev","host":"MININT-UQJ6ACP"}
