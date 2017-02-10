@@ -119,3 +119,4 @@ D:\GSI-CAT\Code\DataBrain\Ingestion\DataBrain.Ingestion.Api\bin\zh-Hant\System.S
 D:\GSI-CAT\Code\DataBrain\Ingestion\DataBrain.Ingestion.Api\obj\Debug\DataBrain.Ingestion.Api.csprojResolveAssemblyReference.cache
 D:\GSI-CAT\Code\DataBrain\Ingestion\DataBrain.Ingestion.Api\obj\Debug\DataBrain.Ingestion.Api.dll
 D:\GSI-CAT\Code\DataBrain\Ingestion\DataBrain.Ingestion.Api\obj\Debug\DataBrain.Ingestion.Api.pdb
+D:\GSI-CAT\Code\DataBrain\Ingestion\DataBrain.Ingestion.Api\bin\DataBrain.Core.dll.config

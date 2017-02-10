@@ -93,3 +93,4 @@ D:\GSI-CAT\Code\DataBrain\ColdStorage\DataBrain.ColdStorage.EventProcessor.WebJo
 D:\GSI-CAT\Code\DataBrain\ColdStorage\DataBrain.ColdStorage.EventProcessor.WebJob\obj\Debug\DataBrain.ColdStorage.EventProcessor.WebJob.csprojResolveAssemblyReference.cache
 D:\GSI-CAT\Code\DataBrain\ColdStorage\DataBrain.ColdStorage.EventProcessor.WebJob\obj\Debug\DataBrain.ColdStorage.EventProcessor.WebJob.exe
 D:\GSI-CAT\Code\DataBrain\ColdStorage\DataBrain.ColdStorage.EventProcessor.WebJob\obj\Debug\DataBrain.ColdStorage.EventProcessor.WebJob.pdb
+D:\GSI-CAT\Code\DataBrain\ColdStorage\DataBrain.ColdStorage.EventProcessor.WebJob\bin\Debug\DataBrain.Core.dll.config

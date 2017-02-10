@@ -78,3 +78,4 @@ D:\GSI-CAT\Code\DataBrain\Core\DataBrain.Core\bin\Debug\zh-Hans\System.Spatial.r
 D:\GSI-CAT\Code\DataBrain\Core\DataBrain.Core\bin\Debug\zh-Hant\System.Spatial.resources.dll
 D:\GSI-CAT\Code\DataBrain\Core\DataBrain.Core\obj\Debug\DataBrain.Core.dll
 D:\GSI-CAT\Code\DataBrain\Core\DataBrain.Core\obj\Debug\DataBrain.Core.pdb
+D:\GSI-CAT\Code\DataBrain\Core\DataBrain.Core\obj\Debug\DataBrain.Core.csprojResolveAssemblyReference.cache
